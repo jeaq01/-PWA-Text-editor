@@ -7,8 +7,9 @@ A text editor that runs in the browser. The app will be a single-page applicatio
 A text editor that allows you to write notes or code snippets with or without an internet connection
 
 # Start the app:
-    npm i
-    npm start
+    `cd server && npm i && cd ../client && npm i`
+     `npm run start`
+     
 ## How to use
 
 
